@@ -1,5 +1,5 @@
 class Pedido {
-    constructor(id, titulo, quantidade, valor) {
+    constructor(id, titulo, quantidade, valor, total) {
         this.id = id;
         this.titulo = titulo;
         this.quantidade = quantidade;
